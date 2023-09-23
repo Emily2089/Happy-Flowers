@@ -123,6 +123,10 @@ a {
         width: 260px;
         margin: 5px;
     }
+    .mouseover_menu_item {
+        width: 260px;
+        margin: 5px;
+    }
     .footer {
         display: block;
         text-align: center;
